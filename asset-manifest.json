@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/io/BlogStack/static/css/main.e6c13ad2.css",
+    "main.js": "/io/BlogStack/static/js/main.c7637ef0.js",
+    "index.html": "/io/BlogStack/index.html",
+    "main.e6c13ad2.css.map": "/io/BlogStack/static/css/main.e6c13ad2.css.map",
+    "main.c7637ef0.js.map": "/io/BlogStack/static/js/main.c7637ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7637ef0.js"
+  ]
+}
